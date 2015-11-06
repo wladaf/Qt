@@ -1,5 +1,7 @@
 #include <QtGui>
 #include <string> 
+#include <QtWidgets/QApplication>
+#include <QPushButton>
 
 int main(int argv, char **args)
 {
